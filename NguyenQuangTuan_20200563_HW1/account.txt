@@ -1,0 +1,2 @@
+admin newpassword123 newemail@gmail.com 0977777777 0
+user1 user12345 user@email.com.vn 0988123456 1
